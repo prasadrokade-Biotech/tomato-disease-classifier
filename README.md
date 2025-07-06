@@ -21,6 +21,8 @@ This project uses a Convolutional Neural Network (CNN) in TensorFlow/Keras to cl
 - Open this project in Google Colab
 - Mount your Google Drive with dataset
 - Run all cells
+- [![Open In
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/prasadrokade-Biotech/tomato-disease-classifier/blob/main/plant_disease_classifier%20(1).ipynb)
 
 ## 👤 Author
 **Prasad Rokade**  
