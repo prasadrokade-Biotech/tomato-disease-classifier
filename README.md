@@ -4,7 +4,7 @@ This project uses a Convolutional Neural Network (CNN) in TensorFlow/Keras to cl
 
 ## ✅ Dataset
 - PlantVillage Tomato Dataset
-- 10 disease classes like Early Blight, Late Blight, Leaf Mold, etc.
+- 2 disease classes like Early Blight, Late Blight.
 
 ## 📌 Tools Used
 - Python
